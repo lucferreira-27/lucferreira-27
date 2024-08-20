@@ -8,9 +8,16 @@
   <strong>Software Developer</strong>
 </p>
 
+## Contact & Online Presence
+
 <p align="center">
   <a href="mailto:lucferreira14@gmail.com"><img src="https://img.shields.io/badge/Email-lucferreira14%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
   <a href="https://github.com/lucferreira-27"><img src="https://img.shields.io/badge/GitHub-lucferreira--27-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+</p>
+
+<p align="center">
+  <a href="https://lucferreira-27.github.io/curriculum/"><img src="https://img.shields.io/badge/Curriculum-View%20Online-4285F4?style=for-the-badge&logo=github&logoColor=white" alt="Curriculum"></a>
+  <a href="#"><img src="https://img.shields.io/badge/Portfolio-Coming%20Soon-FFA500?style=for-the-badge" alt="Portfolio"></a>
 </p>
 
 ## About Me
