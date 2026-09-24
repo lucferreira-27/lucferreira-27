@@ -1,102 +1,61 @@
 <div align="center">
-  <img src="header.png" alt="Programming Header" width="100%">
+  <img src="header.png" alt="Header" width="100%">
+
+  <h1>Lucas Ferreira da Silva</h1>
+
+  <p><strong>Software Engineer · Full Stack</strong><br>
+  Java · TypeScript · Python — scrapers, APIs, desktop tools and AI-powered apps</p>
+
+  <a href="https://lucferreira-27.github.io/curriculum/"><img src="https://img.shields.io/badge/Curriculum-View%20online-1a4e8e?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Curriculum"></a>
+  <a href="mailto:lucferreira14@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </div>
 
-<h1 align="center">Lucas Ferreira da Silva</h1>
+## About
 
-<p align="center">
-  <strong>Software Developer</strong>
-</p>
+Software engineer with a degree in Systems Analysis and Development (FATEC, 2022). I like building tools that turn messy data into something useful: web scrapers, REST APIs, desktop apps and, lately, applications built on top of LLMs and speech/vision models.
 
-## Contact & Online Presence
+- Currently focused on **scalable architecture, type safety (TypeScript) and AI applications**
+- Background in **Java & Spring**, with plenty of **Node/React** and **Python** along the way
+- English: B2 · Portuguese: native
 
-<p align="center">
-  <a href="mailto:lucferreira14@gmail.com"><img src="https://img.shields.io/badge/Email-lucferreira14%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-  <a href="https://github.com/lucferreira-27"><img src="https://img.shields.io/badge/GitHub-lucferreira--27-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
-</p>
+## Tech
 
-<p align="center">
-  <a href="https://lucferreira-27.github.io/curriculum/"><img src="https://img.shields.io/badge/Curriculum-View%20Online-4285F4?style=for-the-badge&logo=github&logoColor=white" alt="Curriculum"></a>
-  <a href="#"><img src="https://img.shields.io/badge/Portfolio-Coming%20Soon-FFA500?style=for-the-badge" alt="Portfolio"></a>
-</p>
-
-## About Me
-
-Software developer and Systems Analysis and Development student at FATEC, Ribeirão Preto. Interested in innovative technologies, particularly Large Language Models and their potential in software development.
-
-- Systems Analysis and Development @ FATEC
-- Focus on Large Language Models and AI
-- Continuous learner
-
-## Skills
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Java-C04000?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js">
+<p>
+  <img src="https://img.shields.io/badge/Java-C04000?style=flat-square&logo=openjdk&logoColor=white" alt="Java">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt="C#">
   <br>
-  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring">
-  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle Database">
- <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React">
-
+  <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white" alt="Spring">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node.js">
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React">
+  <img src="https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white" alt="Electron">
+  <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" alt="Django">
+  <img src="https://img.shields.io/badge/Bun-000000?style=flat-square&logo=bun&logoColor=white" alt="Bun">
+  <br>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL">
+  <img src="https://img.shields.io/badge/NoSQL-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="NoSQL">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker">
+  <img src="https://img.shields.io/badge/Cloudflare%20Workers-F38020?style=flat-square&logo=cloudflare&logoColor=white" alt="Cloudflare Workers">
+  <img src="https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white" alt="Selenium">
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git">
 </p>
 
-## Featured Projects
+## Featured projects
 
-<div align="center">
-  <a href="https://github.com/lucferreira-27/bubble-capture">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=lucferreira-27&repo=bubble-capture&theme=vue" alt="BubbleCapture" />
-  </a>
-  <a href="https://github.com/lucferreira-27/my-anime-back">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=lucferreira-27&repo=my-anime-back&theme=vue" alt="MyAnimeBack" />
-  </a>
-</div>
-
-### BubbleCapture
-Desktop app for extracting text from manga speech bubbles and panels.
-- Electron & React
-- Image processing
-- UI design for productivity tools
-
-### MyAnimeBack
-Web scraping API for historical analysis of MyAnimeList data.
-- Java & Spring Boot
-- RESTful API design
-- Data analysis and web scraping
-
-## Current Focus: Large Language Models
-
-Exploring LLMs and their applications in software development:
-- LLM integration in software
-- New programming paradigms
-
-## Learning & Academic Focus
-
-- Svelte
-- Data Science
-- Agile Methodologies
-- Cloud Computing (AWS/Azure)
-- Machine Learning
-- Microservices Architecture
-- Cybersecurity
+| Project | What it does | Stack |
+| --- | --- | --- |
+| [**news-backend**](https://github.com/lucferreira-27/news-backend) | Final-year thesis (TCC): an API that scrapes news sites and classifies articles with NLP (entities, keywords, sentiment). | Java · Spring · Selenium · Watson NLU · MySQL |
+| [**bubble-capture**](https://github.com/lucferreira-27/bubble-capture) | Desktop app that streamlines manga transcription: select speech bubbles, extract text, tag characters and dialog. | Electron · React · MUI |
+| [**bubble-detector**](https://github.com/lucferreira-27/bubble-detector) | Detects speech bubbles and panels in manga pages using ML and computer vision. | Python · CV · OCR |
+| [**SonioxSRT**](https://github.com/lucferreira-27/SonioxSRT) | Libraries and CLIs for the Soniox transcription API that generate SRT subtitles, with twin Python and TypeScript implementations. | Python · TypeScript |
+| [**my-anime-back**](https://github.com/lucferreira-27/my-anime-back) | Scraping API for historical analysis of an anime's MyAnimeList stats. | Java · Spring Boot |
 
 ## Certifications
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Oracle-Database%20Design%20and%20Programming%20with%20SQL-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle Certification">
-</p>
-
-## Languages
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Portuguese-Native-4CAF50?style=for-the-badge" alt="Portuguese">
-  <img src="https://img.shields.io/badge/English-YEAH-2196F3?style=for-the-badge" alt="English">
-</p>
-
-
----
+- **Database Design and Programming with SQL**, Oracle (2021)
 
 <div align="center">
-  <i>Passionate about coding and contributing to innovative projects!</i>
+  <sub>Full CV at <a href="https://lucferreira-27.github.io/curriculum/">lucferreira-27.github.io/curriculum</a></sub>
 </div>
