@@ -54,7 +54,3 @@ Software engineer with a degree in Systems Analysis and Development (FATEC, 2022
 ## Certifications
 
 - **Database Design and Programming with SQL**, Oracle (2021)
-
-<div align="center">
-  <sub>Full CV at <a href="https://lucferreira-27.github.io/curriculum/">lucferreira-27.github.io/curriculum</a></sub>
-</div>
