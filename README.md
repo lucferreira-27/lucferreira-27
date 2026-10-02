@@ -6,7 +6,6 @@
   <p><strong>Software Engineer · Full Stack</strong><br>
   Java · TypeScript · Python — scrapers, APIs, desktop tools and AI-powered apps</p>
 
-  <a href="https://lucferreira-27.github.io/curriculum/"><img src="https://img.shields.io/badge/Curriculum-View%20online-1a4e8e?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Curriculum"></a>
   <a href="mailto:lucferreira14@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </div>
 
