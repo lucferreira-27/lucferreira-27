@@ -1,7 +1,7 @@
 <div align="center">
   <img src="header.png" alt="Header" width="100%">
 
-  <h1>Lucas Ferreira da Silva</h1>
+  <h1>Lucas Ferreira</h1>
 
   <p><strong>Software Engineer · Full Stack</strong><br>
   Java · TypeScript · Python — scrapers, APIs, desktop tools and AI-powered apps</p>
